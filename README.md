@@ -1,4 +1,5 @@
-## Olá, meu nome é Bianca 👋
+## 👋Olá, meu nome é Bianca 
+   💻 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
 
 <!--
 **bi-souza/bi-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br> 
   <img align="center" alt="Bi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bi-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQL" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/17858/17858859.png">
 </div>
 
 <div> 
