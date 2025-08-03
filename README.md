@@ -1,4 +1,4 @@
-## 👋Olá, meu nome é Bianca 
+## 👋 Olá, meu nome é Bianca 
    💻 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
 
 <!--
