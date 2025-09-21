@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é Bianca 
-   💻 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
+   💻 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Rio Preto
 
 <!--
 **bi-souza/bi-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
